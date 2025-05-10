@@ -27,3 +27,4 @@ pip install pyttsx3 pygame tkinter
 
 - The application deletes generated audio files after playback ends or is stopped - must press "download" to save permanently.
 
+![image](https://github.com/user-attachments/assets/c2b9afa2-0e17-4225-a145-128ff5c54d39)
